@@ -9,6 +9,7 @@ library(tseries)   # Pour le test de stationnarité ADF
 library(lmtest)    # Pour le test de Granger
 library(vars)      # Pour sélectionner le lag optimal
 
+
 # 📌 Définir le chemin des fichiers
 folder_path <- "C:/Users/Aziz/Downloads/"
 
